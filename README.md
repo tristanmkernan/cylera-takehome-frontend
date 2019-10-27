@@ -1,6 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cylera Take Home Assignment
+
+## Setup
+
+With the backend up and running, do the following:
+
+```shell script
+$ yarn  # install requirements
+$ yarn start  # run the development server (should open browser)
+```
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
